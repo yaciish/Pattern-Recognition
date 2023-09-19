@@ -1,5 +1,5 @@
 # Pattern-Recognition
 
 Learning folder:
-* Part 1: 
-* 
+- Part 1:
+  - goal 1: 
