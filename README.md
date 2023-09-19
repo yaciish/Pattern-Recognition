@@ -20,3 +20,7 @@ Learning folder:
     * estimate each univariate distribution using a Parzen Window approach.
     * compute the optimal Bayes discriminant function for ML, Bayes, and Parzen schemes.
     * Generate 200 new points for each class for testing using a ten-fold cross validation.
+
+
+Final Project:
+    * This project aims to compare the performance (accuracy measure) of three different classifiers, namely Quadratic, K-Nearest Neighbors, and Ho-Kashyap, in a binary classification problem. According to the results, Quadratic and Ho-Kashyap algorithms work the best in favor of both classes. In the following sections, we will introduce the dataset, methods to obtain mean and covariance for each class, each of the classifiers.
